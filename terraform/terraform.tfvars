@@ -19,3 +19,5 @@ vpc_name       = "<your-vpc-name>"
 
 gcp_asn = "<your-gcp-asn>" # ex: 65000
 aws_asn = "<your-aws-asn>" # ex: 65001
+
+
